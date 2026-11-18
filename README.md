@@ -18,5 +18,4 @@ This is my first Full Stack Developer internship project.
 ## Developer
 Dhanush
 
-git add README.md
-git commit -m "Add project documentation"
+
